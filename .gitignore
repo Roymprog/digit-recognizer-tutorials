@@ -1,2 +1,6 @@
 # Model training checkpoints directory
 model
+
+# Intellij
+.idea
+
